@@ -53,7 +53,7 @@ A lo largo del curso, se realizaron 5 desafíos que abarcan los principales tema
 4. **Desafío 4:** Implementación de 2 modelos Seq2Seq: char - word.
 5. **Desafío 5:** Aplicaciones avanzadas con Transformers y LLMs.
 
-Cada desafío incluye una descripción del problema, el código implementado, y los resultados obtenidos.
+Cada desafío incluye el código implementado, y los resultados obtenidos.
 
 ## Requisitos
 
