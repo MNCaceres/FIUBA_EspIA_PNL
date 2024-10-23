@@ -1,6 +1,6 @@
 # Procesamiento del Lenguaje Natural (PLN) - Especialización en Inteligencia Artificial (FIUBA)
 
-Este repositorio contiene el material y los desarrollos realizados en el curso de **Procesamiento del Lenguaje Natural (PLN)** de la Especialización en Inteligencia Artificial de la FIUBA.
+Este repositorio contiene el desarrollo de los desafíos realizados en el curso de **Procesamiento del Lenguaje Natural (PLN)** de la Especialización en Inteligencia Artificial de la FIUBA.
 
 ## Descripción del curso
 
@@ -50,7 +50,7 @@ A lo largo del curso, se realizaron 5 desafíos que abarcan los principales tema
 1. **Desafío 1:** Vectorización de texto y preprocesamiento.
 2. **Desafío 2:** Implementación de embeddings y modelos no-BOW.
 3. **Desafío 3:** Modelos secuenciales con atención.
-4. **Desafío 4:** Implementación de un modelo Seq2Seq.
+4. **Desafío 4:** Implementación de 2 modelos Seq2Seq: char - word.
 5. **Desafío 5:** Aplicaciones avanzadas con Transformers y LLMs.
 
 Cada desafío incluye una descripción del problema, el código implementado, y los resultados obtenidos.
