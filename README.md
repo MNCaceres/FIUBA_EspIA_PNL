@@ -1,4 +1,4 @@
-![Texto alternativo]([/img/2.png])
+![Ejemplo de Imagen](/img/2.png)
 
 # Procesamiento del Lenguaje Natural (PLN) - Especialización en Inteligencia Artificial (FIUBA)
 
