@@ -64,7 +64,7 @@ Cada desafío incluye el código implementado, y los resultados obtenidos.
 
 1. Clonar el repositorio:
     ```bash
-    git clone https://github.com/MNCaceres/FIUBA_EspIA_PNL.git
+    git clone https://github.com/MNCaceres/FIUBA_EspIA_PNL
     ```
 
 2. Instalar dependencias:
