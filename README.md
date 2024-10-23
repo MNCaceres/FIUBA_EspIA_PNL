@@ -6,7 +6,7 @@ Este repositorio contiene el desarrollo de los desafíos realizados en el curso 
 
 
 <div align="center">
-  <img src="/img/2_2.png" alt="Texto alternativo" width="400"/>
+  <img src="/img/2_2.png" alt="Texto alternativo" width="200"/>
 </div>
 
 
