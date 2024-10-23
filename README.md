@@ -2,7 +2,11 @@
 
 Este repositorio contiene el desarrollo de los desafíos realizados en el curso de **Procesamiento del Lenguaje Natural (PLN)** de la Especialización en Inteligencia Artificial de la FIUBA.
 
-## Descripción del curso ![Ejemplo de Imagen](/img/1_1.png) 
+![Ejemplo de Imagen](/img/2_2.png) 
+
+
+
+## Descripción del curso 
 
 El curso está organizado en 8 clases, donde se abordan los principales conceptos y técnicas de PLN, cubriendo desde los fundamentos hasta los modelos más avanzados utilizados en la actualidad. Los temas se desarrollan a través de 5 desafíos, en los cuales se aplican las técnicas estudiadas para resolver problemas concretos en PLN.
 
