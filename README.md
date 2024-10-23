@@ -2,7 +2,12 @@
 
 Este repositorio contiene el desarrollo de los desafíos realizados en el curso de **Procesamiento del Lenguaje Natural (PLN)** de la Especialización en Inteligencia Artificial de la FIUBA.
 
-![Ejemplo de Imagen](/img/2_2.png) 
+
+
+
+<div align="center">
+  <img src="/img/2_2.png" alt="Texto alternativo" width="400"/>
+</div>
 
 
 
