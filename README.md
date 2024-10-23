@@ -80,3 +80,7 @@ Cada desafío incluye el código implementado, y los resultados obtenidos.
     ```
 
 3. Ejecutar los notebooks de cada desafío para ver las implementaciones.
+
+
+## Profesor
+Dr. Rodrigo Cardenas Szigety
