@@ -1,3 +1,5 @@
+![Texto alternativo]([ruta_de_la_imagen](img/t%C3%ACtulo.png))
+
 # Procesamiento del Lenguaje Natural (PLN) - Especialización en Inteligencia Artificial (FIUBA)
 
 Este repositorio contiene el desarrollo de los desafíos realizados en el curso de **Procesamiento del Lenguaje Natural (PLN)** de la Especialización en Inteligencia Artificial de la FIUBA.
