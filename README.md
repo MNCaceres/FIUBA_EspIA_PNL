@@ -4,7 +4,7 @@ Este repositorio contiene el desarrollo de los desafíos realizados en el curso 
 
 
 
-<div align="center" style="margin-top: 250px; margin-bottom: 250px;">
+<div align="center" style="margin-top: 2200px; margin-bottom: 2200px;">
   <img src="/img/2_2.png" alt="Texto alternativo" width="700"/>
 </div>
 
